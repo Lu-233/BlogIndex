@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Lu's Blogs"
-copyright = '2022, Lu'
+copyright = '2022, Lu. This work is licensed under CC-BY-NC-SA 4.0'
 author = 'Lu Wang'
 
 # The full version, including alpha/beta/rc tags
