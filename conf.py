@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Lu's Blogs"
-copyright = '2022, Lu. This work is licensed under CC-BY-NC-SA 4.0'
+copyright = '2022, Lu. This work is licensed under CC-BY-NC-SA 4.0. <a href="https://beian.miit.gov.cn">滇ICP备16000371号-2</a>'
 author = 'Lu Wang'
 
 # The full version, including alpha/beta/rc tags
